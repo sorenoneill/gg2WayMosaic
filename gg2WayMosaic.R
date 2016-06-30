@@ -60,5 +60,4 @@ gg2WayMosaic <- function(dfInput, air=0) {
     labs(title="Mosaic", x="Var x", y="Relative frequency", fill="Var y")
   
   return(plot)
-  
 }
