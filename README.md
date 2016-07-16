@@ -7,4 +7,4 @@ This is a relatively simple function which takes a data frame of the columns (fa
 
 The function is based on ggplot2.
 
-I hope this finds use somewhere out there ... and if it does, feel free to contact med here at github or via mail: soren oneill dk
+I hope this finds use somewhere out there ... and if it does, feel free to contact me here at github or via mail: soren oneill dk
